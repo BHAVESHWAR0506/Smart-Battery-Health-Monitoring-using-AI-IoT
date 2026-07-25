@@ -1,0 +1,6 @@
+{
+  "name": "ION-SHIELD AI - Battery Health Monitoring System",
+  "description": "An intelligent IoT & AI battery health monitoring platform providing real-time SoC/SoH estimation, degradation predictions, anomaly detection, cell-level telemetry, and automated safety alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
